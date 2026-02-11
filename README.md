@@ -1,5 +1,7 @@
 # Toyceptron 🧠
 
-A real neural network, without magic or external libraries
+
+A real neural network, without magic or external libraries.
+
 
 ## 📝 Description
