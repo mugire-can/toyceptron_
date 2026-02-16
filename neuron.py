@@ -6,7 +6,6 @@ class Neuron:
     def forward(self, inputs):
         if len(inputs) != len(self.weights):
             raise ValueError(
-                "Input length must match weights length: "
                 f"{len(inputs)} != {len(self.weights)}"
             )
         weighted_sum = 0.0
